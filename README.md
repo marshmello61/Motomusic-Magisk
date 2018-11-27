@@ -10,6 +10,6 @@ Initial Release
 
 ## Notes
 
-It installs the Latest Official Motomusic app. It's Not Nodded or any unofficial app
+It installs the Latest Official Motomusic app. It's Not Modded or any unofficial app
 
 ### Thanks For Choosing
